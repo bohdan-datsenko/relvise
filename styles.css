@@ -820,12 +820,6 @@ h1,h2, h3, h4, h5, h6{font-size: inherit; font-weight: bold;}
 /* who */
 
 /* clients */
-@media(max-width: 768px) {
-	.clients ._container {
-		padding: 0;
-	}
-}
-
 .clients {
 	position: relative;
 	background-color: #fafafa;
