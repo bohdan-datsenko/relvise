@@ -853,6 +853,9 @@ h1,h2, h3, h4, h5, h6{font-size: inherit; font-weight: bold;}
 }
 @media(max-width: 768px) {
 	.clients-subscribe {
+		padding: 20px 5px;
+	}
+	.clients-subscribe ._container {
 		padding: 0;
 	}
 }
