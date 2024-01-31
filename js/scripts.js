@@ -1,4 +1,4 @@
-let menu = document.getElementById("burgerMenu");
+let menu = document.getElementById("burgerMenuBackdrop");
 let body = document.body;
 let html = document.documentElement;
 
