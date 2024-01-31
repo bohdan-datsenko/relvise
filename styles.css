@@ -718,16 +718,13 @@ h1,h2, h3, h4, h5, h6{font-size: inherit; font-weight: bold;}
 .who__title {
 }
 .who .heading {
-	max-width: 334px;
+
 }
 .who__body {
 	display: flex;
 	padding: 0px 10px;
 }
 @media(max-width: 1040px) {
-	.who .heading {
-
-	}
 	.who__body {
 		align-items: center;
 	}
